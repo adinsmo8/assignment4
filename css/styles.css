@@ -97,6 +97,18 @@ footer {
     font-size: 1.4em
 }
 
+#quiz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#quiz_title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #kinds_of_watermelon1 {
     display: flex;
     align-items: center;
